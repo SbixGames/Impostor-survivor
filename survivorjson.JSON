@@ -2,11 +2,11 @@
 	"version": "Allii Survivor",
 
 
-"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
-"admobInterId": "ca-app-pub-3940256099942544/1033173712",
-"admobReward": "ca-app-pub-3940256099942544/5224354917",
-"admobNativeid": "ca-app-pub-3940256099942544/2247696110",
-"admobAppOpenid": "ca-app-pub-3940256099942544/3419835294",
+"admobbannerId": "ca-app-pub-3582832293206410/5323214564",
+"admobInterId": "ca-app-pub-3582832293206410/7473104877",
+"admobReward": "ca-app-pub-3582832293206410/7330716211",
+"admobNativeid": "ca-app-pub-3582832293206410/1192397867",
+"admobAppOpenid": "ca-app-pub-3582832293206410/3391471201",
 
 "applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
 	"applovinbanner": "77c64f9e99e23763",
@@ -24,7 +24,7 @@
 "adsSwitchInter": "1",
 "adsSwitchBanner": "1",
 "adsSwitchReward": "1",
-"counterRate": "500",
+"counterRate": "200",
 "adscounter": "1"
 
 	
