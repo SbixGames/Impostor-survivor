@@ -1,12 +1,12 @@
 {
-	"version": " Rainbow Survivor V1",
+	"version": " Rainbow Survivor V2",
 
 
-"admobbannerId": "ca-app-pub-7705353387861177/1936904175",
-"admobInterId": "ca-app-pub-7705353387861177/5928120075",
-"admobReward": "ca-app-pub-7705353387861177/9979045720",
-"admobNativeid": "ca-app-pub-7705353387861177/8059459393",
-"admobAppOpenid": "ca-app-pub-7705353387861177/2642916539",
+"admobbannerId": "ca-app-pub-9308071837275271/8516734326",
+"admobInterId": "ca-app-pub-9308071837275271/3947219339",
+"admobReward": "ca-app-pub-9308071837275271/9363197544",
+"admobNativeid": "ca-app-pub-9308071837275271/1101564144",
+"admobAppOpenid": "ca-app-pub-9308071837275271/9718420760",
 
 "applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
 	"applovinbanner": "77c64f9e99e23763",
@@ -21,9 +21,9 @@
 "onesignalid": "1e7148e2-d5a2-4ed4-92b3-0b31758a7023",
 
 "adsSwitch detail ": " 1:admob  2:unity 3:applovin 0:auto",
-"adsSwitchInter": "2",
-"adsSwitchBanner": "2",
-"adsSwitchReward": "2",
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1",
 "counterRate": "5",
 "adscounter": "0"
 
